@@ -1,5 +1,12 @@
 # lecbooks
 
+1. open file lecbooks-main in andriod studio
+2. connect the device to launch the app
+3. start the backend file lecbook-backend-main in powershell
+4. run command npm run develop
+5. write your ip address inside globals.dart in the specified space in lecbooks-main.
+6. run the lecbooks-main file and enjoy the app.
+
 A new Flutter project.
 
 ## Getting Started
